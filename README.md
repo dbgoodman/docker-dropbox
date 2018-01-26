@@ -1,7 +1,7 @@
 dropbox
 =======
 
-Docker container to run dropbox
+Docker container to run dropbox. DBG: Changed dropbox dir for MIT Dropbox's stupid awful directory name.
 
 ## Basic usage
 
