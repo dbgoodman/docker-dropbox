@@ -26,7 +26,7 @@ RUN chmod a+rwX /dropbox
 EXPOSE 17500
 
 VOLUME /dropbox/.dropbox
-VOLUME /dropbox/Dropbox
+VOLUME /dropbox/Dropbox\ \(MIT\)
 
 # Add Dropbox to runit
 RUN mkdir /etc/service/dropbox
